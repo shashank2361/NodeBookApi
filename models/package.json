@@ -1,0 +1,16 @@
+{
+  "name": "node-book-api",
+  "version": "0.0.0",
+  "description": "NodeBookApi",
+  "main": "server.js",
+  "author": {
+    "name": "Shashank"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "gulp": "^3.9.1",
+    "gulp-nodemon": "^2.2.1",
+    "mongoose": "^5.3.6"
+  }
+}
